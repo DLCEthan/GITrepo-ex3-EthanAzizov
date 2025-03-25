@@ -5,7 +5,7 @@ public class EthanAzizov
 		int num = 5;
 		for(int i=0; i < num; i++)
 		{
-			System.out.println("The best in the world!..."+i);
+			System.out.println("DevOps is cool..."+i);
 		}
 	}
 }
